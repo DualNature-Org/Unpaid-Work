@@ -1,0 +1,17 @@
+Name: xyz
+Class: Ranger
+HP: 100
+Gold: 15
+Attack: 10
+Inventory: Ruby,Health Potion
+Current location: Market
+
+Home
+A peaceful home at the end of village
+Exits: {'dungeon': <__main__.Location object at 0x00000205A5729AF0>, 'wilderness': <__main__.Location object at 0x00000205A5729520>, 'town_center': <__main__.Location object at 0x00000205A5729100>, 'market': <__main__.Location object at 0x00000205A5729220>, 'docks': <__main__.Location object at 0x00000205A5729280>}
+Forgotten Kingdom
+An ancient underground city
+Exits: {'home': <__main__.Location object at 0x00000205A5729C40>, 'dungeon_entrance': <__main__.Location object at 0x00000205A53494F0>}
+Wild Lands
+Dangerous uncharted territory
+Exits: {'home': <__main__.Location object at 0x00000205A5729C40>, 'forest': <__main__.Location object at 0x00000205A5729940>, 'mountain': <__main__.Location object at 0x00000205A57294C0>, 'canyon': <__main__.Location object at 0x00000205A5729D90>}
